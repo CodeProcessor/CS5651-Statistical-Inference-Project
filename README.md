@@ -5,7 +5,7 @@
 
 Mobile banking is a service provided by some financial institutions which enable users to use a mobile device to carry out financial transactions. This service enables users to do various transactions, which may vary depending on the institution. Currently, most of the Sri Lankan banks are offering this mobile banking service to the customers. This survey was done to investigate the factors that affect mobile banking applications. One hundred sixty participants have randomly participated in this survey. Data is analyzed and visualized, and then those data were used to derive some useful insights for the banking services to adapt their service towards customers better. This study will be helpful to implement user-friendly mobile banking applications in Sri Lanka. 
 
-Please find the uptodate report in [this location](http://github.com)
+Please find the uptodate report in [this location](https://github.com/DulanGit/CS5651-Statistical-Inference-Project/blob/main/Mobile_Banking_Application_Usage_Analysis_in_Sri%20Lanka%5BIEEE_Format%5D.pdf)
 
 ## Questions and the possible answers
 
