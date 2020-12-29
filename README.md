@@ -3,13 +3,73 @@
 ## Questions
 
 1. Gender
+    * Male
+    * Female
+
 2. Age
+    * 19-30
+    * 31-40
+    * 41-50
+    * 51-60
+    * 61+
+    
 3. Where do you live? (District)
+    * Gampaha
+    * Kegalle
+    * Colombo
+    * Moneragala
+    * Kalutara
+    * Kandy
+    * Galle
+    * Ratnapura
+    * Vavuniya
+    * Badulla
+    * Kurunegala
+    * Hambantota
+    * Nuwara Eliya
+    * Jaffna
+    * Matara
+    * Puttalam
+
+    
 4. What's your occupation?
+
+    * Private Sector Job
+    * Government Job
+    * Student
+    * Self-Employed
+    * None
+
 5. What's your Education Level?
+
+    * Degree or above
+    * A/L
+    * Diploma
+    * Undergraduate
+
 6. What's your Monthly income?
+
+    * Below 50,000
+    * 50,000 - 100,000
+    * 100,000 - 150,000
+    * 150,000 - 200,000
+    * 200,000+
+
 7. How did you get to know about mobile banking?
+
+    * Friends
+    * Bank
+    * Self
+    * Website
+    * Advertisement
+    * Family 
+
 8. How long have you been using mobile banking for?
+
+    * One year to five years
+    * Less than a year
+    * 5 years or more
+
 9. Is your mobile banking service addition to an existing bank account or separate service(Mobile wallet, ex: frimi)?
 10. What types of accounts do you have?
 11. What kind of operations are you doing using the mobile application?
