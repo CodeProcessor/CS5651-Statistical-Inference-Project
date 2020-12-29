@@ -71,32 +71,224 @@
     * 5 years or more
 
 9. Is your mobile banking service addition to an existing bank account or separate service(Mobile wallet, ex: frimi)?
+
+      * Separate
+      * An addition
+      * Both
+
 10. What types of accounts do you have?
+
+      * Savings Account
+      * Credit card Account
+      * Checking Account
+      * Investment Account
+      * Money Market Account
+
 11. What kind of operations are you doing using the mobile application?
+
+      * Checking bank balance
+      * Transfer money to the other accounts
+      * Pay utility bills
+      * Fixed deposits
+      * Investments
+      * International payments
+      * Pension fund management
+
 12. How often do you use the mobile application to do the above-mentioned tasks
+
+      * Daily
+      * Weekly
+      * Monthly
+      
 13. How far is the bank branch where you do business (or live)?
+
+      * less than 100m
+      * 100m to 1Km
+      * 1Km to 5Km
+      * more than 5Km
+
 14. Do you generally send, receive, or do both send and receive?
+
+      * Send
+      * Reveive 
+      * Both
+      
 15. How do you agree with the following statements? [My mobile banking menu is very easy to navigate]
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 15. How do you agree with the following statements? [My mobile banking menu is very easy to understand]
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 15. How do you agree with the following statements? [It is easy to make a payment]
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 15. How do you agree with the following statements? [It is easy to make transfer money]
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 15. How do you agree with the following statements? [It is easy to make a balance inquiry]
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 15. How do you agree with the following statements? [Do you think that you will save time by using a mobile banking application?]
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 15. How do you agree with the following statements? [Do you think the mobile banking is secure with compared to the physically going to a bank and doing the operations?]
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 16. What type of features do you think that is relevant to a mobile banking application? [Speed/Performance]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [Simplicity]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [Security]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [Customization]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [Social Integration]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [Feedback]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [cross-platform]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [Customer support]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [Multiple languages]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 16. What type of features do you think that is relevant to a mobile banking application? [More reporting tools (charts, tables, etc..)]
+
+      * Very relevant
+      * Relevant
+      * Not relevant
+      * No Idea
+
 17. How satisfied were you with the current banking application?
+
 18. Do you recommend other users to use mobile banking apps? 
+
+      * Yes
+      * No
+      * May be
+      
 19. What is the main advantage of using mobile banking applications?
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
 20. What are the main drawbacks of using mobile banking applications?
+
+      * Ease of access
+      * 24/7 account and service access
+      * Online bill payment
+      * Speed and efficiency
+      * Low fees
+      * many other 
+
 21. How can the mobile banking apps could be improved to fit your needs well?
+
+      * Technology issues
+      * Inefficient at complex transactions
+      * No relationship with personal banker
+      * No account number verification process when depositing money
+
 22. What are your other thoughts on mobile banking? (Not Mandatory)
+
+      Type the answer
+
 23. How convenient is this questionnaire for you? (Not Mandatory)
+
+      * 1
+      * 2
+      * 3
+      * 4
+      * 5
+      * NA
+
